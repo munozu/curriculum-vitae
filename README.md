@@ -1,10 +1,10 @@
 # Jake Munoz
 Frontend Focused Senior Fullstack Developer
 
-- loc: Redfern, NSW
-- ph: 0468828890
-- @: [munozu@pm.me](mailto:munozu@pm.me)
-- web: [munozu.com](https://munozu.com)
+- Redfern, NSW
+- 0468 828 890
+- [munozu@pm.me](mailto:munozu@pm.me)
+- [munozu.com](https://munozu.com)
 - [linkedin](https://linkedin.com/in/munozu)
 
 ### Profile
@@ -14,24 +14,24 @@ Passionate about making interactive generative audiovisual art accessible in the
 
 ## Employment history
 
-### Deltatre | Senior UI Developer | 2018 - present
+### Deltatre | Senior Software Engineer | 2018 - present
 __mtribes__, a Saas solution that enables realtime analytics driven user experiences. 
 - Provided code review, mentoring and guidance
-- Written documentation detailing React performance best practices and performance debugging.
-- Client side Apollo cache optimizations with persistent query caching and manual browser cache updates
-- Integrated GRPC service clients to a microservice backend.
-- Improved the rendering performance of a page with many components.
-- Architected a Page-error validation solution that is generalised and reusable across various
-  pages.
-- Converted an Apollo GraphQL service from Javascript to Typescript.
-- Provided a codegen solution for Protobufs and GraphQL schemas.
-- Mocked services to protobuf specifications to facilitate frontend build out.
 - Built UI components in isolation with Storybook 
 - Tested UI components manually and written unit tests with Jest
-- Demonstrated feature work at the end of a sprint cycle
-- Collaborated cross discipline with Backend and DevOps engineers.
-- Designed, developed and presented experimental projects to the wider team.
+- Improved the rendering performance of a page with a large number of components.
 - Refactored complex nested dropdown menu system
+- Written documentation detailing React performance best practices and performance debugging.
+- Architected a Page-error validation solution that is generalised and reusable across various
+  pages.
+- Client side Apollo cache optimizations with persistent query caching and manual browser cache updates
+- Converted an Apollo GraphQL service from Javascript to Typescript.
+- Integrated GRPC service clients to microservices backend.
+- Provided a codegen solution for Protobufs and GraphQL schemas.
+- Mocked services to protobuf specifications to facilitate frontend build out.
+- Demonstrated feature work at the end of a sprint cycle to the team.
+- Collaborated cross discipline with Copywriters, Designers, Backend and DevOps engineers.
+- Designed, developed and presented experimental projects to the wider team.
 - Proven ability to appropriately and creatively name things.
 
 ### Freelance | Web developer | 2016 - 2018
@@ -63,7 +63,7 @@ __Tattoo__, Generative card Art
 __Poncelet Fives__, Audiovisual Poncelet's porism
   - *Interactive math generated music with Tone.js and P5.js*
 
-__Eucbox__, generative browser music
+__GBM__, generative browser music
   - *AudioWorklets, WebAudio and Solid-js*
 
 ## Skills
@@ -78,6 +78,8 @@ __Eucbox__, generative browser music
 - Jest & React Testing Library
 - Web Audio 
 - Canvas 
+- Monorepos
+- Microfrontends
 - Module federation
 - Webassembly
 - Rust
